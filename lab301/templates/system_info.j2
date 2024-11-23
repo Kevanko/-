@@ -1,0 +1,6 @@
+---
+system_info:
+  hostname: "{{ ansible_hostname }}"
+  os: "{{ ansible_distribution }} {{ ansible_distribution_version }}"
+  memory: "{{ ansible_memory_mb.real.total }} MB"
+  cpu: "{{ ansible_processor[0] }}"

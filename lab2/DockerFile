@@ -1,0 +1,9 @@
+FROM gcc:latest
+
+WORKDIR /usr/src/app
+
+COPY app.cpp .
+
+RUN g++ -o myapp app.cpp
+
+CMD ["./myapp"]
