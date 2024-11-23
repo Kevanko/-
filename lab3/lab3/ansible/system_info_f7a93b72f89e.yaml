@@ -1,0 +1,10 @@
+system:
+  hostname: f7a93b72f89e
+  os:
+    distribution: Ubuntu
+    version: 24.04
+  cpu:
+    architecture: x86_64
+  memory:
+    total: 3766 MB
+  uptime: 0 hours
