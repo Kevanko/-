@@ -1,0 +1,11 @@
+---
+system_info:
+  hostname: "container2"
+  os: "Ubuntu 24.04"
+  memory: "3884 MB"
+  cpu:
+    cores: "2"
+    threads: "1"
+  architecture: "x86_64"
+  uptime: "6291"
+  ansible_version: "2.12.10"

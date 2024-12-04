@@ -1,9 +1,0 @@
-services:
-  Cont1:
-    image: cont1
-    ports:
-      - "3300:22"
-  Cont2:
-    image: cont1
-    ports:
-      - "3400:22"

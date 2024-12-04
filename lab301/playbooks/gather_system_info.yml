@@ -1,8 +1,0 @@
-- name: Gather system information
-  hosts: all
-  gather_facts: true
-  tasks:
-    - name: Create system info file
-      ansible.builtin.template:
-        src: /ansible/templates/system_info.j2
-        dest: /tmp/system_info.yml
