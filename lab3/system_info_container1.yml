@@ -7,5 +7,5 @@ system_info:
     cores: "2"
     threads: "1"
   architecture: "x86_64"
-  uptime: "6291"
+  uptime: "9768"
   ansible_version: "2.12.10"
